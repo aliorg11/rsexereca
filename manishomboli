@@ -94,5 +94,11 @@
     "key": "Xray",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "dee8e0c5d052d621",
+    "key": "KBM",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
