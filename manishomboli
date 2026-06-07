@@ -28,5 +28,11 @@
     "key": "am",
     "expirydate": "05-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c8ef8d8b1b049fe8",
+    "key": "si",
+    "expirydate": "05-09-2026",
+    "Allowoffline": true
   }
 ]
