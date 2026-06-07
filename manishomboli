@@ -4,5 +4,11 @@
     "key": "sdsd",
     "expirydate": "29-06-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "sdsd",
+    "key": "s",
+    "expirydate": "29-06-2026",
+    "Allowoffline": true
   }
 ]
