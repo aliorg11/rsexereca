@@ -64,5 +64,11 @@
     "key": "Sag",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f681c26ae522d802",
+    "key": "ManiRSE",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
