@@ -88,5 +88,11 @@
     "key": "KKK",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "320ce10da4671201",
+    "key": "Xray",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
