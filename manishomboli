@@ -16,5 +16,11 @@
     "key": "sdsd",
     "expirydate": "07-07-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c8ef8d8b1b049fe8",
+    "key": "ali",
+    "expirydate": "05-09-2026",
+    "Allowoffline": true
   }
 ]
