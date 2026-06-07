@@ -82,5 +82,11 @@
     "key": "RSEE",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "35da627a6ebe32bf",
+    "key": "KKK",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
