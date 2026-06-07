@@ -70,11 +70,5 @@
     "key": "ManiRSE",
     "expirydate": "07-06-2027",
     "Allowoffline": true
-  },
-  {
-    "device_id": "707a2e979260be82",
-    "key": "of",
-    "expirydate": "04-12-2026",
-    "Allowoffline": true
   }
 ]
