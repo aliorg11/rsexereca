@@ -40,5 +40,11 @@
     "key": "Rse",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "353aaae936667354",
+    "key": "K",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
