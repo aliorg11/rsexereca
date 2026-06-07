@@ -76,5 +76,11 @@
     "key": "of",
     "expirydate": "04-12-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1501fb44a36aec97",
+    "key": "RSEE",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
