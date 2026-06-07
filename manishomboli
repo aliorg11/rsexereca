@@ -10,5 +10,11 @@
     "key": "s",
     "expirydate": "29-06-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "moosh",
+    "key": "sdsd",
+    "expirydate": "07-07-2026",
+    "Allowoffline": true
   }
 ]
