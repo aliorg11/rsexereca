@@ -112,5 +112,11 @@
     "key": "bidar",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1692a56ca367907a",
+    "key": "xit",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
