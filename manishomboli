@@ -106,5 +106,11 @@
     "key": "NOV",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "80fc109eff7696ee",
+    "key": "bidar",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
