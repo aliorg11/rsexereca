@@ -118,5 +118,11 @@
     "key": "xit",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "71ee80c041e0e883",
+    "key": "Tax",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
