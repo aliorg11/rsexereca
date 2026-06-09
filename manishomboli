@@ -172,5 +172,11 @@
     "key": "AMI",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d547ce64b55baa11",
+    "key": "SALAR",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
