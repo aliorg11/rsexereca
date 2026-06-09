@@ -160,5 +160,11 @@
     "key": "saman",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "887bf2e652bece2e",
+    "key": "hamid",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
