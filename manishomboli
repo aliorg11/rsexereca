@@ -166,5 +166,11 @@
     "key": "hamid",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d5dd3ca97283855d",
+    "key": "AMI",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
