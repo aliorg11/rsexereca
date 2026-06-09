@@ -154,5 +154,11 @@
     "key": "abwl",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d4b73d287b191108",
+    "key": "saman",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
