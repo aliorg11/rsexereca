@@ -190,5 +190,11 @@
     "key": "Salam",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "da14db3d1a9722b2",
+    "key": "iure",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
