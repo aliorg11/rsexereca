@@ -178,5 +178,11 @@
     "key": "SALAR",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "380a850836b8a38d",
+    "key": "AMIR",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
