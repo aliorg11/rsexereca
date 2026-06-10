@@ -196,5 +196,11 @@
     "key": "iure",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "27df697e2808dc90",
+    "key": "metii",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
