@@ -214,5 +214,11 @@
     "key": "NOEL",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "43971bc66e54dcef",
+    "key": "roham",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
