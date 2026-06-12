@@ -220,5 +220,11 @@
     "key": "Flow",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a91df2344bd8f42b",
+    "key": "Nov",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
