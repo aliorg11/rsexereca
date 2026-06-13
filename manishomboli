@@ -226,5 +226,11 @@
     "key": "Nov",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b6f2e1cbd6274d81",
+    "key": "Cloud",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
