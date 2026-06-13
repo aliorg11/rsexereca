@@ -232,5 +232,11 @@
     "key": "Cloud",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4ef9584b3656e309",
+    "key": "saeed",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
