@@ -244,5 +244,11 @@
     "key": "hami",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "22a2882be1bcd3c0",
+    "key": "BJF",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
