@@ -256,5 +256,11 @@
     "key": "BJF2",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "aab9860d18fcf31d",
+    "key": "novm",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
