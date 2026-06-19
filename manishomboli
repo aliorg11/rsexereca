@@ -268,5 +268,11 @@
     "key": "MEHDI",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "80f37680f2772c54",
+    "key": "You",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
