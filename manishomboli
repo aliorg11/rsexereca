@@ -286,5 +286,11 @@
     "key": "Mani",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1501fb44a36aec97",
+    "key": "IOS",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
