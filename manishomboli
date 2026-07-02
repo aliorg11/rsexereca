@@ -292,5 +292,11 @@
     "key": "IOS",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "233f7653c0e47cce",
+    "key": "kirsag",
+    "expirydate": "09-09-2099",
+    "Allowoffline": true
   }
 ]
