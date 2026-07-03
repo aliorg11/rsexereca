@@ -328,5 +328,11 @@
     "key": "sa",
     "expirydate": "09-09-2222",
     "Allowoffline": true
+  },
+  {
+    "device_id": "9d4eddcaec3a793e",
+    "key": "RSEXERECA",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
