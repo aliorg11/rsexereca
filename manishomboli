@@ -310,5 +310,11 @@
     "key": "Jaya",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ecebfef4bbe60204",
+    "key": "tedi",
+    "expirydate": "01-06-2060",
+    "Allowoffline": true
   }
 ]
