@@ -340,5 +340,11 @@
     "key": "Ragnar",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "00ac93fe797879f4",
+    "key": "Amihosein",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
