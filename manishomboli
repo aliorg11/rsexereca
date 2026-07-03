@@ -334,5 +334,11 @@
     "key": "RSEXERECA",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1d5dd1c140147f1d",
+    "key": "Ragnar",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
