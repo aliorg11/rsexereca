@@ -346,5 +346,11 @@
     "key": "Amihosein",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f2f9c4aa2179df96",
+    "key": "Rez",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
