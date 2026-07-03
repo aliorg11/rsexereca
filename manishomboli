@@ -316,5 +316,11 @@
     "key": "tedi",
     "expirydate": "01-06-2060",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e0b20005d65dbf13",
+    "key": "mo",
+    "expirydate": "01-01-2027",
+    "Allowoffline": true
   }
 ]
