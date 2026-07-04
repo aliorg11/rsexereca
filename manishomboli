@@ -376,5 +376,11 @@
     "key": "behnamm",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d7aa774bafe7def0",
+    "key": "amire",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
