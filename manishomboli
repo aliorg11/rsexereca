@@ -382,5 +382,11 @@
     "key": "amire",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "2f69674232b059e3\\",
+    "key": "ariyan",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
