@@ -358,5 +358,11 @@
     "key": "dark",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5b5dd02a0eb0ad85",
+    "key": "Wegilo",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
