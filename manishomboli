@@ -394,5 +394,11 @@
     "key": "aghaarian",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "d55bd92fdb719cd0",
+    "key": "careless",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
