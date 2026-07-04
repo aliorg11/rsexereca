@@ -352,5 +352,11 @@
     "key": "Rez",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5ab55a093ac2bb12",
+    "key": "dark",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
