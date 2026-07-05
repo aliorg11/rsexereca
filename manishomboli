@@ -406,5 +406,11 @@
     "key": "ariyanmax",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e3ef02aafe4ffe36",
+    "key": "Prof",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
