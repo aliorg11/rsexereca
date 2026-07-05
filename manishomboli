@@ -412,5 +412,11 @@
     "key": "Prof",
     "expirydate": "07-06-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c463c7646d84d8d9",
+    "key": "edris",
+    "expirydate": "07-06-2027",
+    "Allowoffline": true
   }
 ]
