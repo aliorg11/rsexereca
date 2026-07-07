@@ -436,5 +436,11 @@
     "key": "salarrrr",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "373248c58297882b",
+    "key": "mmdi",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
