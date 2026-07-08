@@ -442,5 +442,11 @@
     "key": "mmdi",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "101968f017385bba",
+    "key": "hajamer",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
