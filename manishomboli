@@ -448,5 +448,11 @@
     "key": "hajamer",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "056376f4745d8cd8",
+    "key": "shombol",
+    "expirydate": "09-09-2099",
+    "Allowoffline": true
   }
 ]
