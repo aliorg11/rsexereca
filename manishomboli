@@ -460,5 +460,11 @@
     "key": "amih",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "cb92f54eb1da1761",
+    "key": "Caree",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
