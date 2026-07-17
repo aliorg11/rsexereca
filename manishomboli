@@ -514,5 +514,11 @@
     "key": "Radin",
     "expirydate": "09-09-2099",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b4645424024d2c0e",
+    "key": "mmdx",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
