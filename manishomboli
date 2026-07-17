@@ -520,5 +520,11 @@
     "key": "mmdx",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ca75c82557742f1f",
+    "key": "mobin",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
