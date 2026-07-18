@@ -544,5 +544,11 @@
     "key": "dev",
     "expirydate": "17-05-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8db68a4cd007ef00",
+    "key": "Devv",
+    "expirydate": "05-09-2026",
+    "Allowoffline": true
   }
 ]
