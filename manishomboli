@@ -550,5 +550,11 @@
     "key": "Devv",
     "expirydate": "05-09-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "069f51f83edf3341",
+    "key": "abwwl",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
