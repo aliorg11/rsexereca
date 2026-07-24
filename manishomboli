@@ -562,5 +562,11 @@
     "key": "mhsn",
     "expirydate": "07-08-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5b370efba4938602",
+    "key": "samm",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
