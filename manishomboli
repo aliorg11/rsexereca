@@ -586,5 +586,11 @@
     "key": "NOELLLL",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "84c9b21ee8586ce1",
+    "key": "Nirox",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
