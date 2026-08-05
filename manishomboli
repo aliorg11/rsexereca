@@ -628,5 +628,11 @@
     "key": "yazid",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "838811030fe7d48b",
+    "key": "rse",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
