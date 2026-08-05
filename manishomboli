@@ -640,5 +640,11 @@
     "key": "mani",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f681c26ae522d802",
+    "key": "kir",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
