@@ -616,5 +616,11 @@
     "key": "amii",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "aed10e4339b61742",
+    "key": "tokyo",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
