@@ -634,5 +634,11 @@
     "key": "rse",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "173829818fea9c49",
+    "key": "mani",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
