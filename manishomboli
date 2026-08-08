@@ -646,5 +646,11 @@
     "key": "kir",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "1422974c51465103",
+    "key": "pixel",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
