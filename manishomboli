@@ -652,5 +652,11 @@
     "key": "pixel",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "244e2e00a6398b37",
+    "key": "mhsn",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
