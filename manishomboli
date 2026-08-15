@@ -664,5 +664,11 @@
     "key": "koon",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "63a9d28ac53077a3",
+    "key": "mdi",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
