@@ -670,5 +670,11 @@
     "key": "mdi",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "a29b4ef20ba8dfe5",
+    "key": "prf",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
