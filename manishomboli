@@ -694,5 +694,11 @@
     "key": "Tokyo",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "8ca8384593f38674",
+    "key": "Arad",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
