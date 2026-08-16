@@ -700,5 +700,11 @@
     "key": "Arad",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "3b4f33822577590e",
+    "key": "Lifetime",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
