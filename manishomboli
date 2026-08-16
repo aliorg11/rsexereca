@@ -706,5 +706,11 @@
     "key": "Lifetime",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "4f67bade927e7c13",
+    "key": "Edi",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
