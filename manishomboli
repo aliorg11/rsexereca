@@ -724,5 +724,11 @@
     "key": "Suck",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e3988a53bf2bdf6a",
+    "key": "Viny",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
