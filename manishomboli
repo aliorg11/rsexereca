@@ -730,5 +730,11 @@
     "key": "Viny",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "dd71cd0ce4019613",
+    "key": "iman",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
