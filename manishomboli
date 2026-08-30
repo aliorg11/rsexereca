@@ -748,5 +748,11 @@
     "key": "noghte",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "747eb5dde7b08537",
+    "key": "Alef",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
