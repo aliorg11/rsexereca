@@ -766,5 +766,11 @@
     "key": "Abwlll",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "432b29da9adf4569",
+    "key": "MT",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
