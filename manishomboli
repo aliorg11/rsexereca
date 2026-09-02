@@ -754,5 +754,11 @@
     "key": "Alef",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "19ffa93c0f288035",
+    "key": "Mehdiaka",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
