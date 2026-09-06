@@ -778,5 +778,11 @@
     "key": "Qalb",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c2637a5196e9cfe8",
+    "key": "Kavir",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
