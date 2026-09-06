@@ -772,5 +772,11 @@
     "key": "MT",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "48a6bd8d55b11ae5",
+    "key": "Qalb",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
