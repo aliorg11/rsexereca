@@ -784,5 +784,11 @@
     "key": "Kavir",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "88d26b74632b78f4",
+    "key": "PXR",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
