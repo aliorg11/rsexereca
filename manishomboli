@@ -796,5 +796,11 @@
     "key": "Rag",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "cbe2341bd3c47ddf",
+    "key": "abwl",
+    "expirydate": "07-06-2029",
+    "Allowoffline": true
   }
 ]
