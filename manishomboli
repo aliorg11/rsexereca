@@ -808,5 +808,11 @@
     "key": "abwlll",
     "expirydate": "07-06-2029",
     "Allowoffline": true
+  },
+  {
+    "device_id": "f681c26ae522d802",
+    "key": "Manirse",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
