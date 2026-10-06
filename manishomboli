@@ -814,5 +814,11 @@
     "key": "Manirse",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "44cae9a4f9b3ddf0",
+    "key": "Ami",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
