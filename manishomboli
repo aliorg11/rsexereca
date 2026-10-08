@@ -826,5 +826,11 @@
     "key": "Arya",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "b7a54365b5e926a5",
+    "key": "kaylo",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
