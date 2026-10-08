@@ -832,5 +832,11 @@
     "key": "kaylo",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "6975880027c69dae",
+    "key": "ufc",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
