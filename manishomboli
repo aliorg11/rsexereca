@@ -850,5 +850,11 @@
     "key": "ALIL",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "R4D1N",
+    "key": "eed663f4596c5208",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
