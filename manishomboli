@@ -862,5 +862,11 @@
     "key": "Alef",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "fe4a87d906b775af",
+    "key": "Taha06",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
