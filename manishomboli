@@ -886,5 +886,11 @@
     "key": "Dany",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "5175f8312980b7c2",
+    "key": "MRSE",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
