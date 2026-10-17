@@ -904,5 +904,11 @@
     "key": "ovar",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "afafe242c7cace35",
+    "key": "Nima22N",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
