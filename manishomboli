@@ -910,5 +910,11 @@
     "key": "Nima22N",
     "expirydate": "09-09-2999",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ea83f43fc3ef78f7",
+    "key": "Amix",
+    "expirydate": "09-09-2999",
+    "Allowoffline": true
   }
 ]
